@@ -1,0 +1,12 @@
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.csprojAssemblyReference.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.AssemblyInfoInputs.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.AssemblyInfo.cs
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.csproj.CoreCompileInputs.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.deps.json
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.pdb
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.pdb
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.csproj.CopyComplete
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.pdb

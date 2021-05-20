@@ -1,0 +1,9 @@
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.deps.json
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.pdb
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.csprojAssemblyReference.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.AssemblyInfoInputs.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.AssemblyInfo.cs
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.csproj.CoreCompileInputs.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Models\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.pdb

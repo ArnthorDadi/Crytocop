@@ -1,0 +1,14 @@
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.deps.json
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.pdb
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Models.pdb
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\bin\Debug\netcoreapp3.1\Cryptocop.Software.API.Repositories.pdb
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.csprojAssemblyReference.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.AssemblyInfoInputs.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.AssemblyInfo.cs
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.csproj.CoreCompileInputs.cache
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.csproj.CopyComplete
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.dll
+D:\Hr_School\Semester5\Vefthjonustur\FinalAssignment - Crytocop\testing3\Cryptocop.Software.API\Cryptocop.Software.API.Services\obj\Debug\netcoreapp3.1\Cryptocop.Software.API.Services.pdb
